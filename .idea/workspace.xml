@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="645c46fd-fc8e-416c-9b1d-888b0e2781c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aBtodPITbJvu9IoVnOGpxZjpzq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="TestNG.MenuOptionsTest.asADriver">
+    <configuration name="MenuOptionsTest.AsAManager" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vytrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.MenuOptionsTest" />
+      <option name="METHOD_NAME" value="AsAManager" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuOptionsTest.asADriver" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vytrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.MenuOptionsTest" />
+      <option name="METHOD_NAME" value="asADriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuOptionsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vytrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.smoke_tests.MenuOptionsTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MenuOptionsTest.asADriver" />
+        <item itemvalue="TestNG.MenuOptionsTest.AsAManager" />
+        <item itemvalue="TestNG.MenuOptionsTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="645c46fd-fc8e-416c-9b1d-888b0e2781c7" name="Default Changelist" comment="" />
+      <created>1586220991065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586220991065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1586475230557">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1586475230557" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1586475230556">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1586475230556" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1586475230555">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1586475230555" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1586475230556">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1586475230556" />
+    <state width="1638" height="319" key="GridCell.Tab.1.bottom" timestamp="1586470493845">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.1.bottom/0.23.1680.962@0.23.1680.962" timestamp="1586470493845" />
+    <state width="1638" height="319" key="GridCell.Tab.1.center" timestamp="1586470493845">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.1.center/0.23.1680.962@0.23.1680.962" timestamp="1586470493845" />
+    <state width="1638" height="319" key="GridCell.Tab.1.left" timestamp="1586470493844">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.1.left/0.23.1680.962@0.23.1680.962" timestamp="1586470493844" />
+    <state width="1638" height="319" key="GridCell.Tab.1.right" timestamp="1586470493845">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.1.right/0.23.1680.962@0.23.1680.962" timestamp="1586470493845" />
+    <state x="349" y="143" key="SettingsEditor" timestamp="1586472349044">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="349" y="143" key="SettingsEditor/0.23.1680.962@0.23.1680.962" timestamp="1586472349044" />
+    <state x="519" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1586220994642">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="519" y="336" key="com.intellij.ide.util.TipDialog/0.23.1680.962@0.23.1680.962" timestamp="1586220994642" />
+    <state x="234" y="201" key="new project wizard" timestamp="1586467994537">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="234" y="201" key="new project wizard/0.23.1680.962@0.23.1680.962" timestamp="1586467994537" />
+  </component>
+</project>
