@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="645c46fd-fc8e-416c-9b1d-888b0e2781c7" name="Default Changelist" comment="" />
+    <list default="true" id="645c46fd-fc8e-416c-9b1d-888b0e2781c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/base/TestBase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aBtodPITbJvu9IoVnOGpxZjpzq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +33,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="TestNG.MenuOptionsTest.asADriver">
+  <component name="RunManager" selected="TestNG.LoginTest.test">
+    <configuration name="LoginTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="vytrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.tests.component_tests.login_navigation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.tests.component_tests.login_navigation" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.tests.component_tests.login_navigation.LoginTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MenuOptionsTest.AsAManager" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vytrack" />
       <extension name="coverage">
@@ -81,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest.test" />
         <item itemvalue="TestNG.MenuOptionsTest.asADriver" />
         <item itemvalue="TestNG.MenuOptionsTest.AsAManager" />
         <item itemvalue="TestNG.MenuOptionsTest.test1" />
@@ -101,38 +129,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1586475230557">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1586481084041">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1586475230557" />
-    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1586475230556">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.962@0.23.1680.962" timestamp="1586481084041" />
+    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1586481084040">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1586475230556" />
-    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1586475230555">
+    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.962@0.23.1680.962" timestamp="1586481084040" />
+    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1586481084039">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1586475230555" />
-    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1586475230556">
+    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.962@0.23.1680.962" timestamp="1586481084039" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1586481084040">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1586475230556" />
-    <state width="1638" height="319" key="GridCell.Tab.1.bottom" timestamp="1586470493845">
+    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1586481084040" />
+    <state width="1638" height="319" key="GridCell.Tab.1.bottom" timestamp="1586481084043">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.1.bottom/0.23.1680.962@0.23.1680.962" timestamp="1586470493845" />
-    <state width="1638" height="319" key="GridCell.Tab.1.center" timestamp="1586470493845">
+    <state width="1638" height="319" key="GridCell.Tab.1.bottom/0.23.1680.962@0.23.1680.962" timestamp="1586481084043" />
+    <state width="1638" height="319" key="GridCell.Tab.1.center" timestamp="1586481084042">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.1.center/0.23.1680.962@0.23.1680.962" timestamp="1586470493845" />
-    <state width="1638" height="319" key="GridCell.Tab.1.left" timestamp="1586470493844">
+    <state width="1638" height="319" key="GridCell.Tab.1.center/0.23.1680.962@0.23.1680.962" timestamp="1586481084042" />
+    <state width="1638" height="319" key="GridCell.Tab.1.left" timestamp="1586481084041">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.1.left/0.23.1680.962@0.23.1680.962" timestamp="1586470493844" />
-    <state width="1638" height="319" key="GridCell.Tab.1.right" timestamp="1586470493845">
+    <state width="1638" height="319" key="GridCell.Tab.1.left/0.23.1680.962@0.23.1680.962" timestamp="1586481084041" />
+    <state width="1638" height="319" key="GridCell.Tab.1.right" timestamp="1586481084042">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.1.right/0.23.1680.962@0.23.1680.962" timestamp="1586470493845" />
+    <state width="1638" height="319" key="GridCell.Tab.1.right/0.23.1680.962@0.23.1680.962" timestamp="1586481084042" />
     <state x="349" y="143" key="SettingsEditor" timestamp="1586472349044">
       <screen x="0" y="23" width="1680" height="962" />
     </state>

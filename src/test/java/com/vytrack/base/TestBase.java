@@ -17,6 +17,7 @@ public class TestBase {
         driver = Driver.getDriver();
         actions = new Actions(driver);
         wait = new WebDriverWait(driver, 5);
+        driver.manage().window().maximize();
     }
 
     @AfterMethod
