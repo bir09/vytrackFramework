@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class LoginTest extends TestBase {
+public class LoginTest_positive extends TestBase {
     //Login	test (positive)
     private String storeManagerUsername = ConfigurationReader.getProperty("store_manager_username");
     private String storeManagerPassword = ConfigurationReader.getProperty("store_manager_password");
